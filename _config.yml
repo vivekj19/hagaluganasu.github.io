@@ -7,6 +7,6 @@ author:
 description: "Site on GH-Pages"
 
 # Build settings
-remote_theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "aqua"
+theme: minima
+
   
