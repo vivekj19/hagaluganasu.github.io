@@ -2,7 +2,7 @@
 layout: post
 title: Second Post
 tags: Second example
-categories: demo
+categories: Demo
 --- 
 
 This is my second post
