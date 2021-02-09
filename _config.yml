@@ -1,0 +1,10 @@
+# Site settings
+title: Hagaluganasu
+author:
+  name: Vivek Jadhav
+  email: vivekjadhavsagar10@gmail.com
+description: "Site on GH-Pages"
+
+# Build settings
+remote_theme: jekyll/minima
+  
