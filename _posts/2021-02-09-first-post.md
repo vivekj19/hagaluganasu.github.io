@@ -7,5 +7,7 @@ categories: demo
 
 Here I will write my first blog!
 
-ಕನ್ನ
+ಕನ್ನಡದಲ್ಲಿ ಬರಿಯಬಹುದೆ? 
+
+Kannada
 
