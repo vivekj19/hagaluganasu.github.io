@@ -7,6 +7,6 @@ author:
 description: "Site on GH-Pages"
 
 # Build settings
-theme: minima
+remote_theme: minima
 
   
