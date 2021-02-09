@@ -4,12 +4,14 @@ author:
   name: Vivek Jadhav
   email: vivekjadhavsagar10@gmail.com
 description: "Site on GH-Pages"
-minima:
-  social_links: 
-    instagram: vivek_j19
 
 # Build settings
 remote_theme: jekyll/minima
+
+minima:
+  social_links: 
+    instagram: vivek_j19
+    twitter: vj_19
   
     
 
