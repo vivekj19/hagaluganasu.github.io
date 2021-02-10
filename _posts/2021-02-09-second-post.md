@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second Post
+title: ಏನ್ ಸಮಾಚಾರ 
 tags: Second example
 categories: Demo
 --- 
