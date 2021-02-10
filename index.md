@@ -4,4 +4,3 @@ layout: home
 ---
 
 Welcome to the site!
-ಕನ್ನಡ
