@@ -18,7 +18,7 @@ remote_theme: jekyll/minima
 minima:
   social_links: 
     instagram: vivek_j19
-    facebook: vivekjadhavsagar10@gmail.com
+    facebook: https://www.facebook.com/vivek.jadhav.3382/
   
   header_pages:
     - about.md
