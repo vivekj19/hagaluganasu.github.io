@@ -3,7 +3,7 @@ title: Hagaluganasu
 author:
   name: Vivek Jadhav
   email: vivekjadhavsagar10 [at] gmail [dot] com
-description: "Site on GH-Pages"
+description: ಕನಸು 
 
 show_excerpts: true
 
@@ -20,9 +20,7 @@ minima:
     instagram: vivek_j19
     facebook: vivekj19
   
-  header_pages:
-    - about.md
-   
+
      
 
   
